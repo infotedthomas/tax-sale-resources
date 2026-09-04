@@ -1,0 +1,91 @@
+{
+  "success": true,
+  "url": "https://www.taxsaleresources.com/ted-thomas-exclusive",
+  "structured": {
+    "title": "Ted Thomas Research Offer",
+    "description": "Use the best tool on the market to increase your speed and accuracy when researching upcoming tax deed and tax lien sales., ",
+    "url": "https://www.taxsaleresources.com/ted-thomas-exclusive",
+    "imageCount": 26,
+    "branding": {
+      "colors": {
+        "primary": "#243D5D",
+        "secondary": "#006AAE",
+        "accent": "#006AAE",
+        "background": "#FFFFFF",
+        "textPrimary": "#6CADDF",
+        "link": "#6CADDF"
+      },
+      "typography": {
+        "fontFamilies": {
+          "primary": "Inter",
+          "heading": "Inter"
+        },
+        "fontStacks": {
+          "heading": [
+            "Inter",
+            "sans-serif"
+          ],
+          "body": [
+            "Inter",
+            "sans-serif"
+          ],
+          "paragraph": [
+            "Inter",
+            "sans-serif"
+          ]
+        },
+        "fontSizes": {
+          "h1": "56px",
+          "h2": "32px",
+          "body": "18px"
+        }
+      },
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "14px"
+      },
+      "logo": "https://cdn.prod.website-files.com/615e00fafadb063161d86614/6a91b47a4e50fd0f5c9901a5_TSR%20and%20Ted%20Thomas.png",
+      "favicon": "https://cdn.prod.website-files.com/615e00fafadb063161d86614/61a94f60212e7d2cc5011b0b_TSR_Favicon.png",
+      "faviconCdn": "https://pagesmith-cdn.com/7723170b/images/61a94f60212e7d2cc5011b0b_TSR_Favicon-81c1d2-32.webp"
+    },
+    "pages": [
+      {
+        "slug": "index",
+        "path": "/",
+        "title": "Ted Thomas Research Offer",
+        "file": "data/pages/index.md"
+      }
+    ],
+    "availablePages": [
+      {
+        "path": "/ted-thomas-exclusive/",
+        "label": "Ted Thomas Exclusive",
+        "slug": "ted-thomas-exclusive",
+        "scraped": false
+      },
+      {
+        "path": "/company/contact-us/",
+        "label": "Contact Us",
+        "slug": "company-contact-us",
+        "scraped": false
+      }
+    ]
+  },
+  "metadata": {
+    "scraper": "firecrawl-crawl-endpoint",
+    "timestamp": "2026-09-03T20:19:09.607Z",
+    "homepageContentLength": 15791,
+    "imageCount": 26,
+    "hasBranding": true,
+    "hasElementorEnrichment": false,
+    "hasVisibleIr": false,
+    "pagesDiscovered": 2,
+    "pagesScraped": 1,
+    "screenshotUrl": "https://storage.googleapis.com/firecrawl-scrape-media/screenshot-83a96dfb-bab4-41be-8c00-16cf4d4a4797.png?GoogleAccessId=scrape-bucket-accessor%40firecrawl.iam.gserviceaccount.com&Expires=1789071534&Signature=tOUm%2FI80m4Etkp7wWRXfEhWvZW%2FJYPzYsyx4%2F%2BNhvz6tBzduWSRr0ixgLe1mowvooheKi6SbsvZ921UK%2BkFNGcWXi%2BJwdl4646wJYdkp7HLTYGB3%2F3O9YMfJEwXO9PnGUWDFlY%2F1zQ9cxzEfYbY5FxWBLuGSZiPfwD9oNPwyTflRhnkUL1mrBwVyCB7e0FqbhWx7gv%2B8on20p3bceW3NrpWR3ifLeICL73HGiXUcdQx3qR3LkVNo4NqNLU3WBHwLLU%2BlhB6df8uKcG5xhkw8rygAK1GA2i0%2BGbsldQtsg3PLmfv7yldrHFtKuIeQxLgxsUKAJLWbnloq%2FQPKV61BSg%3D%3D",
+    "viewportScreenshots": [
+      "https://storage.googleapis.com/firecrawl-scrape-media/screenshot-1c27da07-192c-44b5-9ceb-89665dc1f390.png?GoogleAccessId=scrape-bucket-accessor%40firecrawl.iam.gserviceaccount.com&Expires=1789071534&Signature=dIsV3IK71oye%2BaG%2B6dMfbWFeeZx%2BfOX7ssHa6o%2FiLeNFNPUobFNmzQYsVpjtUidWznuv0eUQ%2Fum60KUqTWBvuFyGINMR0f2p5ZqUhCHphAooYeoF%2BXqs5y4PWh2x4pKEg4ILVp%2B5djXKD8Ktc1UqLY8JXhj%2Fxqyfe0l8Kasfbm5pGfggnambykyfzztujkg3BqftHh%2F1TULlkPYgk5W25L%2FUplipN2HZ0aIba13%2BtuYOqgj6km%2Fa8mCIyeUNJS3ihKYl03LFGV2sdV6J1maApXJT29uvDDL1Ma8Xg%2BIdcaUI1JgTgP9B%2BZY4muXT%2FrmqP%2Bf8a%2BI8SJker17rKgoa8w%3D%3D",
+      "https://storage.googleapis.com/firecrawl-scrape-media/screenshot-02dfcd9f-e088-4e4e-ab0c-3b591c90012f.png?GoogleAccessId=scrape-bucket-accessor%40firecrawl.iam.gserviceaccount.com&Expires=1789071537&Signature=n7EoZerKVX7iPfl6tvas0qjkmHUHMk0WYq9%2FiBVaoNKwD9xK87lFJgaVBFyjOyyFrAdlHACj91VoTwiJ6nehV6chP1i9UMQ4%2FN3QxGoaNQZcAbRgegvBWkKgt1F1mN9YLTaX%2BKr2RTFRSDvq3EUIv8GEZz4FYVZ3Yfvd%2FP4wtyVy0xoAExd%2FfxnQ7sCoWAoQ0QuxZ8BZ43RCpgv3FWPwn1EUOTxYBwhXMsXwZoe7nzAyHgDO%2BRjez80blSAyMpRXO5oLfu8eXbdnadBOt%2FrcOxJLQb%2B0ZB5ydX0HuqlX%2FILwahc9UDv6qSYK3BIezozYegxPCB40tf96azMAMuBaYw%3D%3D",
+      "https://storage.googleapis.com/firecrawl-scrape-media/screenshot-44191207-d87f-47d7-ba20-980442dab875.png?GoogleAccessId=scrape-bucket-accessor%40firecrawl.iam.gserviceaccount.com&Expires=1789071541&Signature=SwyD3VoCzEKXKPbxSIoVEltakY6F8ApOMkYdgR4UQwyBxN83Hvfujh3auo4%2BKWFm%2Fji2QHa6AwoDLm8SgXLP90RvwKfa%2FBkVbpPmZDaxt7iqCyw9lgHTCgBs%2BSigZCX5qb2ESchwMxmwNp3aeCtTfLS1zD%2F%2FhpKOCe8VkaFU6Qf27Ukr7hCTJsAJu615Zoqb%2FhrkM57X5%2F%2BzaNoDIF0nsJ9RrMKLaHYebBTGiHrn1YXdzk5YG6viddOzzrg%2BtHZfQUJLVpxlp4TwvAknp2FzqimAFUVEnR3%2F9WTVMiU3Dqp9WuYKdPiVr1oc5kEBS6t8MIi1ZCNzofJFjO4QmWxm5A%3D%3D"
+    ]
+  }
+}

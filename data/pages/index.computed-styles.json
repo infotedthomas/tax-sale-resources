@@ -1,0 +1,817 @@
+{
+  "viewportWidth": 1920,
+  "pageBackground": {
+    "type": "color",
+    "value": "rgb(255, 255, 255)"
+  },
+  "fontSmoothing": null,
+  "isElementor": false,
+  "sectionThemes": [
+    {
+      "background": "rgb(255, 255, 255)",
+      "textColor": "rgb(36, 61, 93)",
+      "headings": [
+        {
+          "tag": "h1",
+          "fontSize": "56px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Invest in tax lien and tax deed properties the easy way",
+          "textAlign": "center"
+        },
+        {
+          "tag": "h2",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Access real-time tax lien and tax deed auction listings",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Comprehensive property information",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Advanced search filters and interactive mapping",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Extended datasets",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(36, 61, 93)",
+        "lineHeight": "28px",
+        "textAlign": "center"
+      },
+      "buttons": [
+        {
+          "backgroundColor": "rgb(243, 116, 36)",
+          "color": "rgb(255, 255, 255)",
+          "borderRadius": "20px",
+          "padding": "12px 25px 12px 25px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "text": "Try Today for Free!"
+        },
+        {
+          "backgroundColor": "rgb(0, 106, 174)",
+          "color": "rgb(255, 255, 255)",
+          "borderRadius": "20px",
+          "padding": "12px 15px 12px 15px",
+          "fontSize": "16px",
+          "fontWeight": "600",
+          "text": "Try Today for Free!"
+        }
+      ],
+      "links": [
+        {
+          "text": "Property Reports",
+          "color": "rgb(36, 61, 93)",
+          "textDecoration": "underline",
+          "fontWeight": "500"
+        }
+      ],
+      "images": [
+        {
+          "displayWidth": 300,
+          "displayHeight": 51
+        },
+        {
+          "displayWidth": 140,
+          "displayHeight": 40
+        },
+        {
+          "displayWidth": 125,
+          "displayHeight": 39
+        },
+        {
+          "displayWidth": 111,
+          "displayHeight": 30
+        },
+        {
+          "displayWidth": 560,
+          "displayHeight": 404
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1600px",
+        "paddingBlock": "18px 18px"
+      },
+      "interactionType": "accordion"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "textColor": null,
+      "headings": [],
+      "bodyStyle": null,
+      "buttons": [],
+      "images": [
+        {
+          "displayWidth": 125,
+          "displayHeight": 39
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1280px"
+      }
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "textColor": "rgb(36, 61, 93)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Access real-time tax lien and tax deed auction listings",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Comprehensive property information",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Advanced search filters and interactive mapping",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Extended datasets",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "A team of professionals at your fingertips",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(36, 61, 93)",
+        "lineHeight": "28px",
+        "textAlign": "start"
+      },
+      "buttons": [
+        {
+          "backgroundColor": "rgb(243, 116, 36)",
+          "color": "rgb(255, 255, 255)",
+          "borderRadius": "20px",
+          "padding": "12px 25px 12px 25px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "text": "Try Today for Free!"
+        }
+      ],
+      "images": [
+        {
+          "displayWidth": 111,
+          "displayHeight": 30
+        },
+        {
+          "displayWidth": 560,
+          "displayHeight": 404
+        },
+        {
+          "displayWidth": 560,
+          "displayHeight": 379
+        },
+        {
+          "displayWidth": 560,
+          "displayHeight": 384
+        },
+        {
+          "displayWidth": 560,
+          "displayHeight": 412
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "560px"
+      }
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "textColor": "rgb(36, 61, 93)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "How to find and invest in tax sale properties with ease",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Sign-up for a Free Trial",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Analyze the available opportunities",
+          "textAlign": "start"
+        },
+        {
+          "tag": "h3",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Keep or Cancel your membership",
+          "textAlign": "start"
+        }
+      ],
+      "bodyStyle": {
+        "fontSize": "18px",
+        "color": "rgb(36, 61, 93)",
+        "lineHeight": "28px",
+        "textAlign": "start"
+      },
+      "buttons": [
+        {
+          "backgroundColor": "rgb(243, 116, 36)",
+          "color": "rgb(255, 255, 255)",
+          "borderRadius": "20px",
+          "padding": "12px 25px 12px 25px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "text": "Try Today for Free!"
+        }
+      ],
+      "images": [
+        {
+          "displayWidth": 111,
+          "displayHeight": 30
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "1280px",
+        "display": "flex",
+        "flexDirection": "column",
+        "alignItems": "flex-start",
+        "childCount": 3
+      }
+    },
+    {
+      "background": "rgb(250, 252, 255)",
+      "textColor": "rgb(36, 61, 93)",
+      "headings": [
+        {
+          "tag": "h2",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "color": "rgb(36, 61, 93)",
+          "text": "Stop wasting your precious time, and start using the best tool to supercharge yo",
+          "textAlign": "center"
+        }
+      ],
+      "bodyStyle": null,
+      "buttons": [
+        {
+          "backgroundColor": "rgb(243, 116, 36)",
+          "color": "rgb(255, 255, 255)",
+          "borderRadius": "20px",
+          "padding": "12px 25px 12px 25px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "text": "Try Today for Free!"
+        }
+      ],
+      "layout": {
+        "containerMaxWidth": "800px",
+        "paddingBlock": "60px 60px",
+        "marginBlock": "50px 50px",
+        "marginInline": "190.5px 190.5px",
+        "display": "flex",
+        "flexDirection": "row",
+        "alignItems": "flex-start",
+        "justifyContent": "flex-start",
+        "childCount": 2
+      },
+      "outerBackground": "rgb(255, 255, 255)",
+      "panelWidthPct": 79
+    }
+  ],
+  "globalTypography": {
+    "headingFont": "Inter",
+    "bodyFont": "Inter",
+    "scale": {
+      "h1": {
+        "fontSize": "56px",
+        "fontWeight": "700",
+        "lineHeight": "67.2px"
+      },
+      "h2": {
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "36px"
+      },
+      "h3": {
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "lineHeight": "41.6px"
+      },
+      "body": {
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28px"
+      }
+    }
+  },
+  "navigation": {
+    "isFullWidth": true,
+    "width": "1905px",
+    "logo": {
+      "width": "140px",
+      "height": "40px",
+      "position": "inside-nav",
+      "hasBadge": false,
+      "src": "https://cdn.prod.website-files.com/615e00fafadb063161d86614/6a91b4c74bea1776f20bef2b_Ted%20Thomas%20Exclusive.png"
+    },
+    "hasLogo": true,
+    "links": [
+      {
+        "text": "Try Today for Free!",
+        "fontSize": "15px",
+        "fontFamily": "Inter",
+        "fontWeight": "600",
+        "letterSpacing": "0.5px",
+        "color": "rgb(255, 255, 255)",
+        "isButton": true,
+        "buttonStyle": {
+          "backgroundColor": "rgb(243, 116, 36)",
+          "borderRadius": "20px"
+        }
+      }
+    ]
+  },
+  "sliders": [],
+  "buttons": [
+    {
+      "backgroundColor": "rgb(243, 116, 36)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px",
+      "padding": "12px 25px 12px 25px",
+      "fontSize": "15px",
+      "fontWeight": "600",
+      "text": "Try Today for Free!"
+    },
+    {
+      "backgroundColor": "rgb(0, 106, 174)",
+      "color": "rgb(255, 255, 255)",
+      "borderRadius": "20px",
+      "padding": "12px 15px 12px 15px",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "text": "Try Today for Free!"
+    }
+  ],
+  "videos": [],
+  "footer": null,
+  "socialLinks": null,
+  "hoverStyles": {
+    ".w-lightbox-inactive, .w-lightbox-inactive": {
+      "opacity": "0"
+    },
+    ".non-button-menu-links": {
+      "color": "rgb(0, 106, 174)"
+    },
+    ".icon": {
+      "transform": "none"
+    },
+    ".drop-down-wrapper": {
+      "color": "rgb(0, 106, 174)",
+      "boxShadow": "rgba(0, 0, 0, 0.05) 4px 4px 12px 2px"
+    },
+    ".paragraph-2.menu-link": {
+      "color": "rgb(0, 106, 174)"
+    },
+    ".terms-and-conditions-wrapper": {
+      "color": "rgb(0, 106, 174)",
+      "boxShadow": "rgba(0, 0, 0, 0.05) 4px 4px 12px 2px"
+    },
+    ".pricing-div.most-popular.test.gray": {
+      "borderColor": "var(--light-grey)"
+    },
+    ".pricing-div.test": {
+      "backgroundColor": "var(--white)",
+      "transform": "scale(1.02)",
+      "boxShadow": "rgba(0, 0, 0, 0.36) 6px 6px 20px 1px",
+      "borderColor": "var(--steel-blue)"
+    }
+  },
+  "cssVariables": {},
+  "externalFonts": [
+    "font-face: webflow-icons",
+    "font-face: Inter",
+    "font-face: Inter",
+    "font-face: Inter",
+    "font-face: Inter"
+  ],
+  "portSectionStyles": [
+    {
+      "index": 0,
+      "heading": "Site header / navigation (port into Navigation.astro)",
+      "background": "rgb(255, 255, 255)",
+      "elements": [
+        {
+          "tag": "div",
+          "cls": "div-block-133",
+          "text": "Tax Sale Resources is a Trusted Data Partner of Ted Thomas🔒 Exclusive Yearly Pr",
+          "color": "rgb(36, 61, 93)",
+          "border": "1px solid rgb(250, 252, 255)",
+          "borderRadius": "12px",
+          "fontSize": "14px",
+          "ownText": false,
+          "leading": "20px"
+        },
+        {
+          "tag": "img",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "div",
+          "cls": "div-block-134",
+          "color": "rgb(205, 205, 210)",
+          "backgroundColor": "rgb(205, 205, 210)",
+          "border": "1px solid rgb(205, 205, 210)",
+          "borderRadius": "1px",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "img",
+          "cls": "image-36",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "h1",
+          "cls": "heading-style-h1",
+          "text": "Invest in tax lien and tax deed properties the easy way",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "56px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "67.2px"
+        },
+        {
+          "tag": "span",
+          "cls": "hero-text-span",
+          "text": "easy way",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "56px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "67.2px",
+          "textTransform": "uppercase"
+        },
+        {
+          "tag": "p",
+          "cls": "text-size-medium",
+          "text": "Tax Sale Resources provides the most accurate tax sale data available. Get compr",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "18px",
+          "ownText": true,
+          "leading": "28px"
+        },
+        {
+          "tag": "a",
+          "cls": "nav-link",
+          "text": "Try Today for Free!",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(243, 116, 36)",
+          "borderRadius": "20px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "ownText": true,
+          "leading": "20px",
+          "tracking": "0.5px"
+        },
+        {
+          "tag": "div",
+          "cls": "div-block-131",
+          "color": "rgb(36, 61, 93)",
+          "border": "1px solid rgb(209, 212, 219)",
+          "fontSize": "14px"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "heading": "Access real-time tax lien and tax deed auction listings",
+      "background": "rgb(255, 255, 255)",
+      "elements": [
+        {
+          "tag": "img",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "h2",
+          "cls": "heading-2",
+          "text": "Access real-time tax lien and tax deed auction listings",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "36px"
+        },
+        {
+          "tag": "p",
+          "cls": "text-size-medium",
+          "text": "Discover the most up-to-date tax sale auction and parcel data, gain a competitiv",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "18px",
+          "ownText": true,
+          "leading": "28px"
+        },
+        {
+          "tag": "a",
+          "cls": "nav-link",
+          "text": "Try Today for Free!",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(243, 116, 36)",
+          "borderRadius": "20px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "ownText": true,
+          "leading": "20px",
+          "tracking": "0.5px"
+        },
+        {
+          "tag": "div",
+          "cls": "home_feature_card",
+          "text": "Comprehensive property informationOur web application provides comprehensive pro",
+          "color": "rgb(36, 61, 93)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontSize": "14px",
+          "ownText": false,
+          "leading": "20px"
+        },
+        {
+          "tag": "img",
+          "cls": "home_feature_image",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h5",
+          "text": "Comprehensive property information",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "33.6px"
+        },
+        {
+          "tag": "p",
+          "text": "Our web application provides comprehensive property information and analysis too",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        },
+        {
+          "tag": "div",
+          "cls": "home_feature_card",
+          "text": "Advanced search filters and interactive mappingUtilize our advanced search filte",
+          "color": "rgb(36, 61, 93)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontSize": "14px",
+          "ownText": false,
+          "leading": "20px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h5",
+          "text": "Advanced search filters and interactive mapping",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "33.6px"
+        },
+        {
+          "tag": "p",
+          "text": "Utilize our advanced search filters and interactive map to find the perfect tax ",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        },
+        {
+          "tag": "div",
+          "cls": "home_feature_card",
+          "text": "Extended datasets Stop evaluating your tax sale investments without all the need",
+          "color": "rgb(36, 61, 93)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontSize": "14px",
+          "ownText": false,
+          "leading": "20px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h5",
+          "text": "Extended datasets",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "33.6px"
+        },
+        {
+          "tag": "p",
+          "text": "Stop evaluating your tax sale investments without all the needed information. Us",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        },
+        {
+          "tag": "div",
+          "cls": "home_feature_card",
+          "text": "A team of professionals at your fingertipsOne click for title searches, drive-by",
+          "color": "rgb(36, 61, 93)",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "fontSize": "14px",
+          "ownText": false,
+          "leading": "20px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h5",
+          "text": "A team of professionals at your fingertips",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "33.6px"
+        },
+        {
+          "tag": "p",
+          "text": "One click for title searches, drive-by inspections, detailed analysis or a comps",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "heading": "How to find and invest in tax sale properties with ease",
+      "background": "rgb(255, 255, 255)",
+      "elements": [
+        {
+          "tag": "img",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px"
+        },
+        {
+          "tag": "h2",
+          "cls": "heading-2",
+          "text": "How to find and invest in tax sale properties with ease",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "36px"
+        },
+        {
+          "tag": "p",
+          "cls": "text-size-medium",
+          "text": "Our research application provides investors with detailed data to easily researc",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "18px",
+          "ownText": true,
+          "leading": "28px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "Sign-up for a Free Trial",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "41.6px"
+        },
+        {
+          "tag": "span",
+          "cls": "text-span-light-background",
+          "text": "Free Trial",
+          "color": "rgb(36, 61, 93)",
+          "backgroundColor": "rgba(255, 245, 187, 0.42)",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "41.6px",
+          "textTransform": "capitalize"
+        },
+        {
+          "tag": "p",
+          "text": "Click on any \"Try Today for Free!\" button to quickly create your account. (Be su",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "Analyze the available opportunities",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "41.6px"
+        },
+        {
+          "tag": "p",
+          "text": "We make analyzing opportunities easy! Quickly see the needed property informatio",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        },
+        {
+          "tag": "h3",
+          "cls": "heading-style-h4",
+          "text": "Keep or Cancel your membership",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "ownText": true,
+          "leading": "41.6px"
+        },
+        {
+          "tag": "p",
+          "text": "Evaluate our platform for FREE! If you like it, great! If not, no problem at all",
+          "color": "rgb(36, 61, 93)",
+          "fontSize": "14px",
+          "ownText": true,
+          "leading": "20px"
+        },
+        {
+          "tag": "a",
+          "cls": "nav-link",
+          "text": "Try Today for Free!",
+          "color": "rgb(255, 255, 255)",
+          "backgroundColor": "rgb(243, 116, 36)",
+          "borderRadius": "20px",
+          "fontSize": "15px",
+          "fontWeight": "600",
+          "ownText": true,
+          "leading": "20px",
+          "tracking": "0.5px"
+        }
+      ]
+    }
+  ],
+  "imageTreatments": [],
+  "floatingOverlays": [],
+  "positionedOverlays": [],
+  "captureViewport": 1920,
+  "hiddenImages": [
+    "https://cdn.prod.website-files.com/615e00fafadb063161d86614/61b125fff229692393a0fac9_Menu.svg",
+    "https://cdn.prod.website-files.com/615e00fafadb063161d86614/6181a60a938a963a95da139d_check-circle.svg",
+    "https://cdn.prod.website-files.com/615e00fafadb063161d86614/662153e7ab7697459697dcf0_Add%20Circle.svg"
+  ],
+  "elementorStylesheets": []
+}

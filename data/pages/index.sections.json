@@ -1,0 +1,364 @@
+[
+  {
+    "index": 0,
+    "heading": "Site header / navigation (port into Navigation.astro)",
+    "widgetTypes": [
+      "nav"
+    ],
+    "html": "<header class=\"section_home_hero-header\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"hero-padding-section-ad-page\"><div class=\"home_hero-header_component\"><div class=\"margin-bottom margin-xxlarge\"><div class=\"div-block-133\"><div><img src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/6a91b4c74bea1776f20bef2b_Ted%20Thomas%20Exclusive.png\" alt></div><div class=\"div-block-134\"></div><div class=\"div-block-135\"><div class=\"text-block-76\">Tax Sale Resources is a Trusted Data Partner of Ted Thomas</div><div class=\"text-block-75\"><strong class=\"bold-text-3\"><em class=\"italic-text-4\">🔒 Exclusive Yearly Pricing for Ted Thomas Referrals.</em></strong></div><div class=\"div-block-136\"><div class=\"text-block-74\"><em>5-Star Partner Experience</em></div><img src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/617b2fc6601e943726b6d873_Group%2030%201.png\" alt=\"Tax Sale Resources 5-Star Rating\" class=\"image-36\"></div></div></div><div class=\"text-align-center\"><div class=\"hero-max-width-large\"><div class=\"margin-bottom margin-small\"><h1 class=\"heading-style-h1\">Invest in tax lien and tax deed properties the <span class=\"hero-text-span\">easy way </span></h1></div><p class=\"text-size-medium\">Tax Sale Resources provides the <strong>most accurate tax sale data available</strong>. Get comprehensive parcel data, &nbsp;advanced search filters, and extended datasets to make informed investing decisions! </p><div class=\"margin-top margin-medium\"><div class=\"button-group is-center\"><div class=\"div-block-25 more-margin\"><a href=\"https://www.taxsaleresources.com/ted-thomas-exclusive#pricing\" class=\"nav-link get-started-button main-call-to-action lighthouse w-button\">Try Today for Free!</a></div></div><div><div class=\"text-block-73\"><em>Join the thousands of other tax sale investors just like you!</em></div></div><div class=\"users-block\"><img src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/617c85158d0b9e6b6ac27e4b_users.webp\" alt=\"Image of Tax Sale Resources Users\"></div></div></div></div></div><div class=\"div-block-131\"><div class=\"w-embed w-iframe\"><div style=\"padding: 56.25% 0 0 0; position: relative\"><div style=\"height:100%;left:0;position:absolute;top:0;width:100%\"><div height=\"100%\" width=\"100%;\" src=\"https://embed.wave.video/XzZ6qhNTRQAnvw8T\"><!DOCTYPE html><html><head><meta><meta><meta><title></title><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta><meta></head><body><div class=\"container\"><div class=\"player-wrapper\"><div class=\"wave_embed\" data-id=\"XzZ6qhNTRQAnvw8T\"><div class=\"sc-1095t5a-0 dsREoK\"><div><div><div class=\"pw5dnz-1 dYjaWj\"><div class=\"pw5dnz-2 iZZeiD\"><div class=\"plyr plyr--full-ui plyr--video plyr--html5 plyr--fullscreen-enabled plyr--pip-supported plyr--paused\"><div class=\"plyr__controls hidden\"><button class=\"plyr__controls__item plyr__control hidden\" type=\"button\"><svg class=\"icon--pressed\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-pause\"></use></svg><svg class=\"icon--not-pressed\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-play\"></use></svg><span class=\"label--pressed plyr__sr-only\">Pause</span><span class=\"label--not-pressed plyr__sr-only\">Play</span></button><div class=\"plyr__controls__item plyr__progress__container\"><div class=\"plyr__progress\"><input type=\"range\" id=\"plyr-seek-7579\" style=\"--value: 30.14%;\"><progress class=\"plyr__progress__buffer\">% buffered</progress><div class=\"plyr__preview-thumb\"><div class=\"plyr__preview-thumb__image-container\"></div><div class=\"plyr__preview-thumb__time-container\"><span>00:00</span><a>Current time URL</a></div></div></div></div><div class=\"plyr__controls__item plyr__time--current plyr__time hidden\">00:03</div><a class=\"plyr__controls__item plyr__control hidden\" href=\"https://cdn1.mywave.video/embed/67e6f02277e943365bd1e11c/67e6f02277e943365bd1e11a.mp4?filename=null.mp4\"><svg aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-download\"></use></svg><span class=\"plyr__sr-only\">Download</span></a><div class=\"plyr__controls__item plyr__volume hidden\"><button type=\"button\" class=\"plyr__control plyr__control--pressed\"><svg class=\"icon--pressed\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-muted\"></use></svg><svg class=\"icon--not-pressed\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-volume\"></use></svg><span class=\"label--pressed plyr__sr-only\">Unmute</span><span class=\"label--not-pressed plyr__sr-only\">Mute</span></button><input type=\"range\" id=\"plyr-volume-7579\" style=\"--value: 0%;\"></div><div class=\"plyr__controls__item plyr__menu hidden\"><button type=\"button\" class=\"plyr__control\"><svg aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-settings\"></use></svg><span class=\"plyr__sr-only\">Settings</span></button></div><button class=\"plyr__controls__item plyr__control hidden\" type=\"button\"><svg class=\"icon--pressed\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-exit-fullscreen\"></use></svg><svg class=\"icon--not-pressed\" aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-enter-fullscreen\"></use></svg><span class=\"label--pressed plyr__sr-only\">Exit fullscreen</span><span class=\"label--not-pressed plyr__sr-only\">Enter fullscreen</span></button></div><div class=\"plyr__video-wrapper plyr__video-wrapper--fixed-ratio\" style=\"padding-bottom: 56.25%;\"><video src=\"https://cdn1.mywave.video/embed/67e6f02277e943365bd1e11c/67e6f02777e943365bd1e132.mp4\"><source src=\"https://cdn1.mywave.video/embed/67e6f02277e943365bd1e11c/67e6f02277e943365bd1e11a.mp4\"><source src=\"https://cdn1.mywave.video/embed/67e6f02277e943365bd1e11c/67e6f02777e943365bd1e132.mp4\"><source src=\"https://cdn1.mywave.video/embed/67e6f02277e943365bd1e11c/67e6f02777e943365bd1e131.mp4\"></video><div class=\"plyr__poster\"></div><div class=\"plyr__preview-scrubbing\"></div></div><div class=\"plyr__captions\"></div><button type=\"button\" class=\"plyr__control plyr__control--overlaid hidden\"><svg aria-hidden=\"true\" focusable=\"false\"><use xlink:href=\"#plyr-play\"></use></svg><span class=\"plyr__sr-only\">Play</span></button></div></div></div></div></div></div></div></div></div></body></html></div></div></div></div></div></div></div></div></div></header>",
+    "elementStyles": [
+      {
+        "tag": "div",
+        "cls": "div-block-133",
+        "text": "Tax Sale Resources is a Trusted Data Partner of Ted Thomas🔒 Exclusive Yearly Pr",
+        "color": "rgb(36, 61, 93)",
+        "border": "1px solid rgb(250, 252, 255)",
+        "borderRadius": "12px",
+        "fontSize": "14px",
+        "ownText": false,
+        "leading": "20px"
+      },
+      {
+        "tag": "img",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "div",
+        "cls": "div-block-134",
+        "color": "rgb(205, 205, 210)",
+        "backgroundColor": "rgb(205, 205, 210)",
+        "border": "1px solid rgb(205, 205, 210)",
+        "borderRadius": "1px",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "img",
+        "cls": "image-36",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "h1",
+        "cls": "heading-style-h1",
+        "text": "Invest in tax lien and tax deed properties the easy way",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "56px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "67.2px"
+      },
+      {
+        "tag": "span",
+        "cls": "hero-text-span",
+        "text": "easy way",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "56px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "67.2px",
+        "textTransform": "uppercase"
+      },
+      {
+        "tag": "p",
+        "cls": "text-size-medium",
+        "text": "Tax Sale Resources provides the most accurate tax sale data available. Get compr",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "18px",
+        "ownText": true,
+        "leading": "28px"
+      },
+      {
+        "tag": "a",
+        "cls": "nav-link",
+        "text": "Try Today for Free!",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(243, 116, 36)",
+        "borderRadius": "20px",
+        "fontWeight": "600",
+        "ownText": true,
+        "leading": "20px",
+        "tracking": "0.5px"
+      },
+      {
+        "tag": "div",
+        "cls": "div-block-131",
+        "color": "rgb(36, 61, 93)",
+        "border": "1px solid rgb(209, 212, 219)",
+        "fontSize": "14px"
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "heading": "Access real-time tax lien and tax deed auction listings",
+    "html": "<section class=\"section_home_feature\"><div class=\"home_feature_component\"><div id=\"w-node-_911cb961-9b3f-cb66-3535-2ddd9101b99a-16e39109\" class=\"home_feature_content-left\"><div class=\"margin-bottom margin-xsmall\"><img src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/67e708672a59b9f01a9c6412_Benefits.png\" alt></div><div class=\"margin-bottom margin-small\"><h2 class=\"heading-2\">Access real-time tax lien and tax deed auction listings</h2></div><p class=\"text-size-medium\">Discover the most up-to-date tax sale auction and parcel data, gain a competitive edge in the tax sale market and access premium pricing through your Ted Thomas referral.</p><div class=\"margin-top margin-medium\"><div class=\"div-block-25 more-margin\"><a href=\"https://www.taxsaleresources.com/ted-thomas-exclusive#pricing\" class=\"nav-link get-started-button main-call-to-action lighthouse w-button\">Try Today for Free!</a></div></div></div><div class=\"home_feature_content-right\"><div class=\"home_feature_card\"><div class=\"home_feature_card-content\"><div class=\"margin-bottom margin-medium\"><div class=\"home_feature_image-wrapper\"><img alt src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/67e70beecf0299d0d2f052cd_Parcel%20Page.png\" class=\"home_feature_image\"></div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h5\">Comprehensive property information</h3></div><p>Our web application provides comprehensive property information and analysis tools to help you make informed investment decisions.</p></div></div><div class=\"home_feature_card white\"><div class=\"home_feature_card-content\"><div class=\"margin-bottom margin-medium\"><div class=\"home_feature_image-wrapper\"><img alt=\"Tax Sale Resources nationwide tax lien and tax deed search\" src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/62b5f96c583276885c002551_Advanced%20Search.webp\" class=\"home_feature_image\"></div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h5\">Advanced search filters and interactive mapping</h3></div><p>Utilize our advanced search filters and interactive map to find the perfect tax lien and tax deed properties that align with your investment strategy.</p></div></div><div class=\"home_feature_card\"><div class=\"home_feature_card-content\"><div class=\"margin-bottom margin-medium\"><div class=\"home_feature_image-wrapper\"><img alt=\"Extended database feature\" src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/62b5fe48a9616a75befc06e3_Extended%20Dataset.webp\" class=\"home_feature_image\"></div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h5\">Extended datasets </h3></div><p>Stop evaluating your tax sale investments without all the needed information. Use <strong>Tax Sale Resources</strong> to ensure there aren't any known environmental hazards, or other high risk issues.</p></div></div><div class=\"home_feature_card white\"><div class=\"home_feature_card-content\"><div class=\"margin-bottom margin-medium\"><div class=\"home_feature_image-wrapper\"><img alt=\"Built in ancillary service offering for Tax Sale Resources - Research\" src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/62b5fdbb9cd58ab3f3767823_Ancillary%20Services.webp\" class=\"home_feature_image\"></div></div><div class=\"margin-bottom margin-xsmall\"><h3 class=\"heading-style-h5\">A team of professionals at your fingertips</h3></div><p>One click for title searches, drive-by inspections, detailed analysis or a comps report on tax sale parcels nationwide.</p></div></div></div></div></section>",
+    "elementStyles": [
+      {
+        "tag": "img",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "h2",
+        "cls": "heading-2",
+        "text": "Access real-time tax lien and tax deed auction listings",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "36px"
+      },
+      {
+        "tag": "p",
+        "cls": "text-size-medium",
+        "text": "Discover the most up-to-date tax sale auction and parcel data, gain a competitiv",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "18px",
+        "ownText": true,
+        "leading": "28px"
+      },
+      {
+        "tag": "a",
+        "cls": "nav-link",
+        "text": "Try Today for Free!",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(243, 116, 36)",
+        "borderRadius": "20px",
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "ownText": true,
+        "leading": "20px",
+        "tracking": "0.5px"
+      },
+      {
+        "tag": "div",
+        "cls": "home_feature_card",
+        "text": "Comprehensive property informationOur web application provides comprehensive pro",
+        "color": "rgb(36, 61, 93)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontSize": "14px",
+        "ownText": false,
+        "leading": "20px"
+      },
+      {
+        "tag": "img",
+        "cls": "home_feature_image",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h5",
+        "text": "Comprehensive property information",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "33.6px"
+      },
+      {
+        "tag": "p",
+        "text": "Our web application provides comprehensive property information and analysis too",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      },
+      {
+        "tag": "div",
+        "cls": "home_feature_card",
+        "text": "Advanced search filters and interactive mappingUtilize our advanced search filte",
+        "color": "rgb(36, 61, 93)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontSize": "14px",
+        "ownText": false,
+        "leading": "20px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h5",
+        "text": "Advanced search filters and interactive mapping",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "33.6px"
+      },
+      {
+        "tag": "p",
+        "text": "Utilize our advanced search filters and interactive map to find the perfect tax ",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      },
+      {
+        "tag": "div",
+        "cls": "home_feature_card",
+        "text": "Extended datasets Stop evaluating your tax sale investments without all the need",
+        "color": "rgb(36, 61, 93)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontSize": "14px",
+        "ownText": false,
+        "leading": "20px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h5",
+        "text": "Extended datasets",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "33.6px"
+      },
+      {
+        "tag": "p",
+        "text": "Stop evaluating your tax sale investments without all the needed information. Us",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      },
+      {
+        "tag": "div",
+        "cls": "home_feature_card",
+        "text": "A team of professionals at your fingertipsOne click for title searches, drive-by",
+        "color": "rgb(36, 61, 93)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "fontSize": "14px",
+        "ownText": false,
+        "leading": "20px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h5",
+        "text": "A team of professionals at your fingertips",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "33.6px"
+      },
+      {
+        "tag": "p",
+        "text": "One click for title searches, drive-by inspections, detailed analysis or a comps",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "heading": "How to find and invest in tax sale properties with ease",
+    "html": "<section class=\"section_home_how-it-works-1\"><div class=\"padding-global\"><div class=\"container-large\"><div class=\"padding-section-large\"><div class=\"home_how-it-works-1_component\"><div class=\"margin-bottom margin-xxlarge\"><div class=\"max-width-large\"><div class=\"margin-bottom margin-xsmall\"><img src=\"https://cdn.prod.website-files.com/615e00fafadb063161d86614/67e70853f707c4220d9416a4_Process.png\" alt></div><div class=\"margin-bottom margin-small\"><h2 class=\"heading-2\">How to find and invest in tax sale properties with ease</h2></div><p class=\"text-size-medium\">Our research application provides investors with detailed data to easily research and view tax sale properties. With our user-friendly interface, finding the perfect investment opportunity has never been easier. And through your Ted Thomas referral, you can unlock exclusive yearly pricing to access our services whenever you need them.</p></div></div><div class=\"w-layout-grid home_how-it-works-1_list\"><div class=\"home_how-it-works-1_item\"><div class=\"text-span-step\"><strong>STEP 1</strong></div><div class=\"margin-bottom margin-small\"><h3 class=\"heading-style-h4 number-1\">Sign-up for a <span class=\"text-span-light-background\"><br>Free Trial</span></h3></div><p>Click on any \"Try Today for Free!\" button to quickly create your account. <em>(Be sure to confirm your email after sign-up!)</em></p></div><div class=\"home_how-it-works-1_item\"><div class=\"text-span-step\"><strong>STEP 2</strong></div><div class=\"margin-bottom margin-small\"><h3 class=\"heading-style-h4\">Analyze the available opportunities</h3></div><p>We make analyzing opportunities easy! Quickly see the needed property information on opportunities in your desired market to ensure you are making informed investment decisions.</p></div><div class=\"home_how-it-works-1_item\"><div class=\"text-span-step\"><strong>STEP 3</strong></div><div class=\"margin-bottom margin-small\"><h3 class=\"heading-style-h4\">Keep or Cancel your membership</h3></div><p>Evaluate our platform for FREE! If you like it, great! If not, no problem at all, you can <strong>one click cancel from within the application</strong>!</p></div></div><div class=\"margin-top margin-xlarge\"><div class=\"div-block-25 more-margin\"><a href=\"https://www.taxsaleresources.com/ted-thomas-exclusive#pricing\" class=\"nav-link get-started-button main-call-to-action lighthouse w-button\">Try Today for Free!</a></div></div></div></div></div></div></section>",
+    "elementStyles": [
+      {
+        "tag": "img",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px"
+      },
+      {
+        "tag": "h2",
+        "cls": "heading-2",
+        "text": "How to find and invest in tax sale properties with ease",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "36px"
+      },
+      {
+        "tag": "p",
+        "cls": "text-size-medium",
+        "text": "Our research application provides investors with detailed data to easily researc",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "18px",
+        "ownText": true,
+        "leading": "28px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "Sign-up for a Free Trial",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "41.6px"
+      },
+      {
+        "tag": "span",
+        "cls": "text-span-light-background",
+        "text": "Free Trial",
+        "color": "rgb(36, 61, 93)",
+        "backgroundColor": "rgba(255, 245, 187, 0.42)",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "41.6px",
+        "textTransform": "capitalize"
+      },
+      {
+        "tag": "p",
+        "text": "Click on any \"Try Today for Free!\" button to quickly create your account. (Be su",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "Analyze the available opportunities",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "41.6px"
+      },
+      {
+        "tag": "p",
+        "text": "We make analyzing opportunities easy! Quickly see the needed property informatio",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      },
+      {
+        "tag": "h3",
+        "cls": "heading-style-h4",
+        "text": "Keep or Cancel your membership",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "32px",
+        "fontWeight": "700",
+        "ownText": true,
+        "leading": "41.6px"
+      },
+      {
+        "tag": "p",
+        "text": "Evaluate our platform for FREE! If you like it, great! If not, no problem at all",
+        "color": "rgb(36, 61, 93)",
+        "fontSize": "14px",
+        "ownText": true,
+        "leading": "20px"
+      },
+      {
+        "tag": "a",
+        "cls": "nav-link",
+        "text": "Try Today for Free!",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(243, 116, 36)",
+        "borderRadius": "20px",
+        "fontSize": "15px",
+        "fontWeight": "600",
+        "ownText": true,
+        "leading": "20px",
+        "tracking": "0.5px"
+      }
+    ]
+  }
+]
