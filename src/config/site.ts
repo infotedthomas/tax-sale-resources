@@ -1,7 +1,7 @@
 export const SITE = {
   name: 'Ted Thomas',
-  title: 'Ted Thomas Magic Map™ | Research Tool + Live Training',
-  description: 'Simplify your tax deed and tax lien research. Get nationwide property data from trusted research partner Tax Sale Resources paired with live weekly classes from Ted Thomas.',
+  title: 'Ted Thomas Magic Map™ | Research Tool + Training',
+  description: 'Simplify your tax deed and tax lien research. Get nationwide property data from trusted research partner Tax Sale Resources paired with training classes from Ted Thomas.',
   lang: 'en',
   url:
     (typeof process !== 'undefined' && process.env.SITE_URL) ||
