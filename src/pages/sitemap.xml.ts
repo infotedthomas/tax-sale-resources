@@ -4,7 +4,7 @@ export const GET: APIRoute = () => {
   return new Response(null, {
     status: 301,
     headers: {
-      Location: '/sitemap-index.xml',
+      Location: `${import.meta.env.BASE_URL}sitemap-index.xml`,
     },
   });
 };
